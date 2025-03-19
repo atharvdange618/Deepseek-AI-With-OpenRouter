@@ -1,6 +1,6 @@
 # DeepSeek AI with OpenRouter
 
-DeepSeek AI with OpenRouter is a modern, streamlined web application that enables you to interact with the DeepSeek AI model through the OpenRouter API. Built with React and Vite, this project offers real-time AI responses in a sleek, responsive UI that leverages Markdown for rich content display.
+DeepSeek AI with OpenRouter is a modern, streamlined web application that enables you to interact with the DeepSeek AI model through the OpenRouter API. Built with React and Vite + Typescript, this project offers real-time AI responses in a sleek, responsive UI that leverages Markdown for rich content display.
 
 ![UI Design of the project](./src/assets/deepseek-ai-with-openrouter.png "UI Design of the project")
 
@@ -18,7 +18,7 @@ Follow these steps to set up the project locally.
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/en/) (v14+ recommended)
+- [Node.js](https://nodejs.org/en/) (v18+ recommended)
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 - An API key from [OpenRouter](https://openrouter.ai)
 
@@ -27,8 +27,8 @@ Follow these steps to set up the project locally.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/deepseek-ai-openrouter.git
-   cd deepseek-ai-openrouter
+   git clone https://github.com/atharvdange618/Deepseek-AI-With-OpenRouter.git
+   cd Deepseek-AI-With-OpenRouter
    ```
 
 2. **Install dependencies:**
